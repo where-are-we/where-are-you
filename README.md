@@ -4,3 +4,6 @@ This repository is for entering bugs, enhencements and to publish some annouceme
 
 # web site
 The official website is: todo.
+
+# You want to report a bug, or propose an enhencement?
+Please do it [here](https://github.com/where-are-we/where-are-you/issues/new).
